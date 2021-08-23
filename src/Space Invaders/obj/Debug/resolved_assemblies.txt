@@ -1,0 +1,3 @@
+C:\Users\Louis\Desktop\XNA Game Projects\Space Invaders (MonoGame) - Android\Space Invaders\Space Invaders\bin\Debug\Space Invaders.dll
+C:\Users\Louis\Desktop\XNA Game Projects\Space Invaders (MonoGame) - Android\Space Invaders\Space Invaders\bin\Debug\MonoGame.Framework.dll
+C:\Users\Louis\Desktop\XNA Game Projects\Space Invaders (MonoGame) - Android\Space Invaders\Space Invaders\bin\Debug\Lidgren.Network.dll
